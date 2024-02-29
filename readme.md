@@ -1,3 +1,7 @@
+# About
+
+Complete setup for RESTful API builds using Node.js, Express and Typescript.
+
 # Starting the project
 
 To start the setup, execute the commands in the sequence below
