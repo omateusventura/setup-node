@@ -1,8 +1,8 @@
-# About
+## About
 
 Complete setup for RESTful API builds using Node.js, Express and Typescript.
 
-# Starting the project
+## Starting the project
 
 To start the setup, execute the commands in the sequence below
 
@@ -18,7 +18,7 @@ npm install
 npm run dev
 ```
 
-# Currently, the setup has these packages
+## Currently, the setup has these packages
 
 - Express
 - Typescript
