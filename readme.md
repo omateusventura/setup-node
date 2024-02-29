@@ -31,3 +31,5 @@ npm run dev
 - Class Validator
 - Class Transformar
 - Bcrypt
+- ESLint
+- Prettier
