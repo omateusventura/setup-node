@@ -22,10 +22,12 @@ npm run dev
 
 - Express
 - Typescript
+- TS-Node
 - Jest and Supertest
 - Axios
-- Dot Env
+- Dotenv
 - PGPromise
 - UUID
 - Class Validator
 - Class Transformar
+- Bcrypt
