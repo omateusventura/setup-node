@@ -4,7 +4,6 @@ To start the setup, execute the commands in the sequence below
 
 ```
 git clone https://github.com/omateusventura/setup-node.git
-
 ```
 
 ```
