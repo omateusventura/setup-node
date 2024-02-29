@@ -1,4 +1,10 @@
 # Starting the project
+```
+git clone https://github.com/omateusventura/setup-node.git
+npm install
+npm run dev
+
+```
 
 # Currently, the setup has these packages
 
